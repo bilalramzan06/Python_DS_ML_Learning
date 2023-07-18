@@ -1,0 +1,12 @@
+# Addition, subtraction
+print(4 + 5)
+print(6 - 5)
+
+# Multiplication, division, modulo, and exponentiation
+print(6 * 5)
+print(13 / 2)
+print(17 % 7)
+print(40**2)
+
+# Calculate two to the power of five
+print(2**5)
